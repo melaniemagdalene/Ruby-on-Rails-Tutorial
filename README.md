@@ -1,9 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Steps necessary to get the application up and running:
 
 * Ruby version
 
@@ -21,7 +18,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+Ruby on Rails Tutorial: "Hello, World!" This is the first application for the Ruby on Rails Tutorial. (http://railstutorial.org/)
 
 
 Please feel free to use a different markup language if you do not plan to run
